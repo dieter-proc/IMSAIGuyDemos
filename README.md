@@ -25,5 +25,14 @@ https://www.youtube.com/watch?v=Gx3lfw_THg4
 #2212 CD4077 XNOR
 https://www.youtube.com/watch?v=YZjGLJsEd2M
 
+#2202 AM25LS2521 8-bit Compare
+https://www.youtube.com/watch?v=5CGvwnrUzHM
+
+#1707 CD4555 Decoder
+https://www.youtube.com/watch?v=QztzSUsTZng
+
+#1699 LFSR Random Number Generator (White Noise)
+https://www.youtube.com/watch?v=WGhRAbQ1fRw
+
 #1107 CD4046 Phase Lock Loop Basics
 https://www.youtube.com/watch?v=P8agoshy3H4
