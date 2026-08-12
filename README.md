@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=r38NwxkmWgA
 
 ------------
 
-TODO list ... expands
+Collection of all other good logic demos (or TODO list ... expands)
 
 #2461 CD4008 Full Adder
 https://www.youtube.com/watch?v=h3gIAVhDICg
@@ -33,6 +33,21 @@ https://www.youtube.com/watch?v=QztzSUsTZng
 
 #1699 LFSR Random Number Generator (White Noise)
 https://www.youtube.com/watch?v=WGhRAbQ1fRw
+
+#1690 74LS593 74593 8 Bit Counter
+https://www.youtube.com/watch?v=JZkK5ecMqto
+
+#1686 74LS624 74624 Voltage Controlled Oscillator
+https://www.youtube.com/watch?v=i4BJrU5d7sE
+
+#1637 7495 74LS95 Shift Register
+https://www.youtube.com/watch?v=RPiv_f1qewQ
+
+#1622 7403 74LS03 Quad NAND
+https://www.youtube.com/watch?v=IDy1rFvddpc
+
+#1580 4013 Flip Flop
+https://www.youtube.com/watch?v=tdPsbRNJJsE
 
 #1107 CD4046 Phase Lock Loop Basics
 https://www.youtube.com/watch?v=P8agoshy3H4
