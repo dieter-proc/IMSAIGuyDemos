@@ -6,6 +6,10 @@ Some interesting FPGA, CPLD based implementations inspired from youtube IMSAIGuy
 #2680 PLL Phase Detector using 7474
 https://www.youtube.com/watch?v=r38NwxkmWgA
 
+------------
+
+TODO list ... expands
+
 #2461 CD4008 Full Adder
 https://www.youtube.com/watch?v=h3gIAVhDICg
 
