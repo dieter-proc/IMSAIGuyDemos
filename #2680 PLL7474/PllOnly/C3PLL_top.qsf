@@ -38,7 +38,7 @@
 
 set_global_assignment -name FAMILY "Cyclone III"
 set_global_assignment -name DEVICE EP3C16F484C6
-set_global_assignment -name TOP_LEVEL_ENTITY C3PLL_top
+set_global_assignment -name TOP_LEVEL_ENTITY PLL74_00
 set_global_assignment -name ORIGINAL_QUARTUS_VERSION 13.0
 set_global_assignment -name PROJECT_CREATION_TIME_DATE "14:11:08  JANUARY 05, 2025"
 set_global_assignment -name LAST_QUARTUS_VERSION 13.1
@@ -70,5 +70,5 @@ set_location_assignment PIN_U9 -to trg1o
 set_location_assignment PIN_U10 -to trg2o
 
 set_global_assignment -name VERILOG_FILE d_flip_flop_7474.v
-set_global_assignment -name VERILOG_FILE C3PLL_top.v
+set_global_assignment -name VERILOG_FILE PLL74_00.v
 set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
