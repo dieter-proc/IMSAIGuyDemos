@@ -8,7 +8,7 @@ LFSR Random Number Generator (White Noise) https://www.youtube.com/watch?v=WGhRA
 
 # BitDemo
 
-Uses 24-bit LFSR like 3 595 shift registers in series, outputs 1 bit value.
+Uses 24-bit LFSR like triple 595 shift registers in series, outputs 1 bit value.
 
 <img src="doc/bitdemo.jpg" alt="pin_out  random output on scope" width="800">
 

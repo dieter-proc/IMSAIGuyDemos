@@ -1,6 +1,6 @@
 
 module C3LFSRvga_top (
-    input clk, // omboard crystal osc 50MHz
+    input clk, // onboard crystal osc 50MHz
     output[3:0] r4, // DE0 board 16 grade R
     output[3:0] g4, // DE0 board 16 grade G
     output[3:0] b4, // DE0 board 16 grade B
