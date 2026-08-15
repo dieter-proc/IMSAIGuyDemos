@@ -32,3 +32,13 @@ Useful for any video output implementation for first time live testing, to be su
 For better non-repeative randomness uses 32 bits LFSR. Acts like static noise on old analog TV without signal.
 
 <img src="doc/CAM00622-ed.jpg" alt="black-white static noise on screen" width="1100">
+<br><br>
+
+
+# WebDemo
+
+Scopeview demo inside browser, no real hardware or hardware design tools needed.
+
+https://dieter-proc.github.io/lfsr1_scope.html
+
+
