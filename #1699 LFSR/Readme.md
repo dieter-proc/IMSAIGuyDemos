@@ -41,4 +41,7 @@ Scopeview demo inside browser, no real hardware or hardware design tools needed.
 
 https://dieter-proc.github.io/lfsr1_scope.html
 
+<img src="doc/lfsr_webdemo.jpg" alt="output signals for scope">
+
+<br>
 

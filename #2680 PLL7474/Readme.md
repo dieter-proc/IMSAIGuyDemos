@@ -34,6 +34,10 @@ Scopeview demo inside browser, no real hardware or hardware design tools needed.
 
 https://dieter-proc.github.io/pll74_scope.html
 
+<img src="doc/pll74_webdemo.jpg" alt="output signals for scope">
+
+<br>
+<hr />
 <br>
 
 <img src="doc/sch2.jpg" alt="output signals for scope" width="800">
